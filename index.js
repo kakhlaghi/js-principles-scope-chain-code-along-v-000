@@ -18,3 +18,7 @@ const leastFavoriteCustomer = 'soup'
 function changeLeastFavoriteCustomer() {
   leastfavoriteCustomer = 'not soup'
 }
+
+function attemptTwoFavoriteCustomers() {
+  
+}
